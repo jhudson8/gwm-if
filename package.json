@@ -1,0 +1,20 @@
+{
+  "name": "gwm-if",
+  "version": "0.1.0",
+  "author": "Joe Hudson <joehud@gmail.com>",
+  "description": "gulp-web-modules conditional wrapper plugin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhudson8/gwm-if.git"
+  },
+  "keywords": [
+    "gulp-web-modules",
+    "gulpWebModulePlugin"
+  ],
+  "licenses": {
+    "type": "MIT",
+    "url": "https://github.com/jhudson8/gwm-if/raw/master/LICENSE"
+  },
+  "dependencies": {
+  }
+}
